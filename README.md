@@ -1,4 +1,4 @@
 # apnacollege_demo
 This is my second git repository
 <br>
-Author - Ankan Biswas
+Author - Ankan (Apna College)
